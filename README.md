@@ -1,5 +1,6 @@
 Smoking is associated to DNA methylation in atherosclerotic carotid lesions
 ===========================================================
+[![DOI](https://zenodo.org/badge/259760088.svg)](https://zenodo.org/badge/latestdoi/259760088)
 
 #### This readme
 This readme accompanies the paper "Smoking is associated to DNA methylation in atherosclerotic carotid lesions." by Siemelink M. and [Van der Laan S.W. *et al*. **Journal 2018**]().
