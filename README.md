@@ -14,6 +14,8 @@ This readme accompanies the paper "Smoking is associated to DNA methylation in a
 
 **Conclusions:** The risk factor tobacco smoking associates with DNA methylation at multiple loci in carotid atherosclerotic lesions. These observations support further investigation of the relationship between risk factors and epigenetic regulation in atherosclerotic disease.
 
+![Figure 1: Manhattan plot showing the association of DNA methylation of CpGs in carotid plaques with current smoking](FIGURES/e002030fig01.png)
+
 #### Quality Control
 We followed the [Leiden DNAmArray Workflow](https://github.com/molepi/DNAmArray) for Quality Control (QC) which is developed by the team of Bas T. Heijmans at the LUMC (Leiden, the Netherlands). To this end we created several, fully annotated scripts.
 
